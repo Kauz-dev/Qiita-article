@@ -1,13 +1,13 @@
 ---
 title: 【初参戦】AtCoder Beginner Contest 455 に初めて出てみた
 tags:
-  - AtCoder
-  - 競技プログラミング
   - Python
+  - AtCoder
   - 初心者
+  - 競技プログラミング
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-26T00:20:23+09:00'
+id: 3e5cbd466fa9d8986556
 organization_url_name: null
 slide: false
 ignorePublish: false

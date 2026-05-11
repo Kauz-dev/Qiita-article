@@ -6,8 +6,8 @@ tags:
   - 初心者
   - 競技プログラミング
 private: false
-updated_at: '2026-05-08T03:19:15+09:00'
-id: 6a6f3fd467fd5f25592f
+updated_at: '2026-05-08T03:21:31+09:00'
+id: 337844a36a9bfd9187ba
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -27,6 +27,9 @@ ignorePublish: false
 
 | 項目 | 内容 |
 |------|------|
+| 順位 | 7,855位 |
+| パフォーマンス | 279 |
+| Rating | 27（+23） |
 | 参加回数 | 2回目 |
 
 ---

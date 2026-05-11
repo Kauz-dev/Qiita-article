@@ -6,7 +6,7 @@ tags:
   - 初心者
   - 競技プログラミング
 private: false
-updated_at: '2026-05-08T03:21:31+09:00'
+updated_at: '2026-05-12T01:54:43+09:00'
 id: 337844a36a9bfd9187ba
 organization_url_name: null
 slide: false
